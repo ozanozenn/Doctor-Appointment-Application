@@ -35,5 +35,5 @@ The app is designed to streamline the appointment process for both doctors and p
 
    ## 🖼️ Screenshots
 
-### 1. Login Screen
+### 1. Example Screen
 ![Login Screen](Appointment/screenshot.png)
